@@ -5,6 +5,18 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab1", "Lab1\Lab1.vcxproj", "{1FF9ACB7-7838-4F7C-9BDE-157381672ED6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2", "Lab2\Lab2.vcxproj", "{0092B2FC-87EC-44FF-930E-747DADE61360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{59E901D4-ED14-41F9-A296-C13440F1F399}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{CD676ACA-661F-40F1-876E-F81E8000632C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Скріни\Lab2\Task1.png = ..\..\Скріни\Lab2\Task1.png
+		..\..\Скріни\Lab2\Task2.png = ..\..\Скріни\Lab2\Task2.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab3", "Lab3", "{E1F876DC-E1D7-4AF2-A8C9-3E3F2372D487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,9 +33,21 @@ Global
 		{1FF9ACB7-7838-4F7C-9BDE-157381672ED6}.Release|x64.Build.0 = Release|x64
 		{1FF9ACB7-7838-4F7C-9BDE-157381672ED6}.Release|x86.ActiveCfg = Release|Win32
 		{1FF9ACB7-7838-4F7C-9BDE-157381672ED6}.Release|x86.Build.0 = Release|Win32
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Debug|x64.ActiveCfg = Debug|x64
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Debug|x64.Build.0 = Debug|x64
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Debug|x86.ActiveCfg = Debug|Win32
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Debug|x86.Build.0 = Debug|Win32
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Release|x64.ActiveCfg = Release|x64
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Release|x64.Build.0 = Release|x64
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Release|x86.ActiveCfg = Release|Win32
+		{0092B2FC-87EC-44FF-930E-747DADE61360}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD676ACA-661F-40F1-876E-F81E8000632C} = {59E901D4-ED14-41F9-A296-C13440F1F399}
+		{E1F876DC-E1D7-4AF2-A8C9-3E3F2372D487} = {59E901D4-ED14-41F9-A296-C13440F1F399}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8DF5C62-6E6C-47F6-A879-BD4690F7C3C1}
