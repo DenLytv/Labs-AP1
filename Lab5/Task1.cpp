@@ -30,7 +30,7 @@ std::pair <std::string, size_t> task(std::string fullName) {
 }
 
 std::string input() {
-    std::string fullName;
+    std::string fullName = "";
     do
     {
         std::cout << "Please enter your full name(ex. Lytvynenko Denys Olexandrovych): ";

@@ -27,7 +27,7 @@ int letterCount(std::string s) {
 }
 
 std::string input(int num) {
-    std::string s;
+    std::string s = "";
     do
     {
         std::cout << "Please enter string " << num << " (up to 100 characters) : \n";

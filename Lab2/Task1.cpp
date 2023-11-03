@@ -45,9 +45,8 @@ void input(double& x, double& y, double& z)
 
 double calculation(double x, double y, double z)
 {
-    double t1, t2, t3;
-    t1 = 2 * cos(x - M_PI / 6);
-    t2 = (0.5 + pow(sin(y), 2));
-    t3 = (1 + pow(z, 2) / (3 - pow(z, 2) / 5));
+    double t1 = 2 * cos(x - M_PI / 6), 
+        t2 = (0.5 + pow(sin(y), 2)), 
+        t3 = (1 + pow(z, 2) / (3 - pow(z, 2) / 5));
     return t1 / t2 * t3;
 }

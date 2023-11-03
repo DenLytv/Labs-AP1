@@ -23,7 +23,7 @@ int main() {
 }
 
 double getX() {
-    double x;
+    double x = 0.0;
     do {
         printf("Please enter x(0 < x < 1) : ");
         scanf_s("%lf", &x);
@@ -32,7 +32,7 @@ double getX() {
 }
 
 double getE() {
-    double e;
+    double e = 0.0;
     do
     {
         printf("Please enter the error range -- e < 0.0001 : ");
