@@ -23,7 +23,7 @@ int main() {
 }
 
 double getX() {
-    double x;
+    double x = 0.0;
     do {
         std::cout << "Please enter x(0 < x < 1) : ";
         std::cin >> x;
@@ -32,7 +32,7 @@ double getX() {
 }
 
 double getE() {
-    double e;
+    double e = 0.0;
     do
     {
         std::cout << "Please enter the error range -- e (< 0.0001): ";
@@ -54,7 +54,7 @@ double calculateY(double x) {
 
 double calculateS(double x, double e) {
     double a = 0.0, b = 0.0;
-    int k = 0;
+    size_t k = 0;
     do {
         b = pow(-1, k) * (pow(x, 2 * k + 1) / faktorial(2 * k + 1));
         a += b;

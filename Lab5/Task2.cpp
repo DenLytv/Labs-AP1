@@ -14,7 +14,7 @@ int main()
 }
 
 int letterCount(std::string s) {
-    int counter = 0;
+    size_t counter = 0;
     for (size_t i = 1, l = s.length() - 1; i < l; i++)
     {
         if (isalpha(s[i]))
@@ -27,7 +27,7 @@ int letterCount(std::string s) {
 }
 
 std::string input(int num) {
-    std::string s;
+    std::string s = "";
     do
     {
         std::cout << "Please enter string " << num << " (up to 100 characters) : \n";

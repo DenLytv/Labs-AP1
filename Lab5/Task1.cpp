@@ -30,7 +30,7 @@ std::pair <std::string, size_t> task(std::string fullName) {
 }
 
 std::string input() {
-    std::string fullName;
+    std::string fullName = "";
     do
     {
         std::cout << "Please enter your full name(ex. Lytvynenko Denys Olexandrovych): ";
@@ -40,7 +40,7 @@ std::string input() {
 }
 
 bool check(std::string fullName) {
-    int spacesCounter = 0;
+    size_t spacesCounter = 0;
     for (size_t i = 0, l = fullName.length(); i < l; i++)
     {
         if (isspace(fullName[i]))

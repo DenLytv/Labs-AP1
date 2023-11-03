@@ -16,8 +16,8 @@ int main()
 }
 
 void calculation(double step, int num) {
-    int i = 0;
-    double sum = 0, x = 0.0, y = 0;
+    size_t i = 0;
+    double sum = 0, x = 0.0, y = 0.0;
     if (num == 0) {
         for (; i < N; i++) {
             std::cout << "#" << i + 1 << "\t\t";

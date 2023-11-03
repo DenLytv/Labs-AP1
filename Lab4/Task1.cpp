@@ -27,7 +27,7 @@ int main()
 
 void fillArr(std::vector<int>& arr)
 {
-	for (int i = 0; i < N; i++)
+	for (size_t i = 0; i < N; i++)
 	{
 		arr[i] = rand() % 201 - 100;
 		std::cout << arr[i] << " ";
@@ -37,7 +37,7 @@ void fillArr(std::vector<int>& arr)
 
 void calculation(std::vector<int> arr, int& maxOdd, int& evenCount)
 {
-	for (int i = 0; i < N; i++)
+	for (size_t i = 0; i < N; i++)
 	{
 		if (arr[i] % 2 == 0)
 			++evenCount;
