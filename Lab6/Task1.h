@@ -1,3 +1,3 @@
 #pragma once
 
-std::pair<size_t, size_t> count0and1();
+void count0and1(int& num0, int& num1);
