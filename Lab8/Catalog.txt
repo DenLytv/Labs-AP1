@@ -1,0 +1,10 @@
+C++ Primer	9780321714114	Stanley B. Lippman	2012	900
+Design Patterns: Elements of Reusable Object-Oriented Software	0201633612	Erich Gamma	1994	416
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14	1491903996	Scott Meyers	2014	334
+C Programming Language, 2nd Edition	0131103628	Brian W. Kernighan	1988	272
+Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything	B0BKTTRHCD	Michio Kaku	2023	500
+C++ Crash Course: A Fast-Paced Introduction	1593278888	Josh Lospinoso	2019	792
+Introduction to Algorithms, fourth edition	026204630X	Thomas H. Cormen	2022	1312
+The C# Player's Guide (5th Edition)	0985580151	RB Whitaker	2022	495
+The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups	908338182X	Gergely Orosz	2023	413
+C# & C++: 5 Books in 1 - The #1 Coding Course from Beginner to Advanced (2023) (Computer Programming)	979-8390090077	Mark Reed	2023	617	

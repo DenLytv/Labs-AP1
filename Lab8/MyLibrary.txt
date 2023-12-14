@@ -1,0 +1,9 @@
+Design Patterns: Elements of Reusable Object-Oriented Software	Gamma Erich	O'Reilly Media	1994	416
+C++ Primer	Lippman Stanley B.	Pearson Inc	2012	900
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14	Meyers Scott	EP Enterprise Holding Limited	2014	334
+C++ Crash Course: A Fast-Paced Introduction	Lospinoso Josh	Pearson	2019	792
+Introduction to Algorithms, fourth edition	Cormen Thomas H.	O'Reilly Media	2022	1312
+The C++++++ Guide	Whitaker RB	Make Community, LLC	2022	496
+C# & C++: 5 Books in 1 - The #1 Coding Course from Beginner to Advanced	Reed Mark	McGraw Hill TAB	2023	618
+Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything	Kaku Michio	EP Enterprise Holding Limited	2023	500
+The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups	Orosz Gergely	McGraw Hill TAB	2023	413
