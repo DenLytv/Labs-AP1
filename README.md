@@ -1,4 +1,4 @@
-# Labs
+# Labs-1
 Welcome to the repository, which contains laboratory works on the subject of algorithmization and programming from semester 1 cource 1.
 ## Lab 1
  Написати код програми "Hello world!", модифікувати програму так, щоб вона виводила на консоль ваше прізвище. 
